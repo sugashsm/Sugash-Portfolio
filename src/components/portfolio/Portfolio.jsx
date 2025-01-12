@@ -47,7 +47,7 @@ const Portfolio = () => {
       description:
         "A portfolio website built with React.js",
       technologies: "Html | CSS | React Js",
-      link: "https://github.com/sugashsm/Sugash-Portfolio",
+      link: "https://sugash-portfolio.vercel.app/",
       github: "https://github.com/sugashsm/Sugash-Portfolio",
     },
     {
