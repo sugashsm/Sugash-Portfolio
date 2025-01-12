@@ -12,7 +12,7 @@ const HeaderSocials = () => {
     <div className="header__socials">
       <a href="https://www.linkedin.com/in/sugashsrimari/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
       <a href="https://github.com/sugashsm" target="_blank" rel="noreferrer" ><FaGithub /></a>
-      <a href="https://leetcode.com/sugashsm/" target="_blank" rel="noreferrer" ><SiLeetcode /></a>
+      <a href="https://leetcode.com/sugashsmr/" target="_blank" rel="noreferrer" ><SiLeetcode /></a>
       <a href="https://www.geeksforgeeks.org/user/sugashsmr/" target="_blank" rel="noreferrer" ><SiGeeksforgeeks /></a>
       <a href="https://www.instagram.com/sugashr7/" target="_blank" rel="noreferrer" ><FaInstagram /></a>
     </div>
